@@ -2,9 +2,16 @@
 
 PROJECT IDEAS AND INSPIRATION
 
-Digital + Interactive + storytelling + Art + Animation + Sequencial Art
+Digital + Interactive + storytelling + Art + Animation + Sequencial Art + ebooks
 
-Videos: Raghava KK: Shake up your story (Teaching Perspective to children) http://www.ted.com/talks/raghava_kk_shake_up_your_story?language=en
+Final Goal. Create an artistic story ebook for Ipad.
+
+Gift : My 3 year old genius nephew. 
+
+
+Videos:
+
+Raghava KK: Shake up your story (Teaching Perspective to children) http://www.ted.com/talks/raghava_kk_shake_up_your_story?language=en
 
 Scott Mcloud at TED. ( Sequencial art and technology ) http://www.ted.com/talks/scott_mccloud_on_comics?language=en#t-859395
 
