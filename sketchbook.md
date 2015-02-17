@@ -24,3 +24,13 @@ Interactive Storytelling Links:
 Animated Graphic Novel for Peugeot http://graphicnovel-hybrid4.peugeot.com/start.html
 
 http://www.drewweing.com/puppages/13pup.html
+
+http://machinarium.net/
+
+Ebooks :
+
+https://www.youtube.com/watch?v=v95bUsMh9nw
+
+https://www.youtube.com/watch?v=HvcM2LgLpUg
+
+
