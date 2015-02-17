@@ -6,7 +6,7 @@ Digital + Interactive + storytelling + Art + Animation + Sequencial Art + ebooks
 
 Final Goal. Create an artistic story ebook for Ipad.
 
-Gift : My 3 year old genius nephew. 
+Gift : My 3 year old genius nephew and my Audience. 
 
 
 Videos:
