@@ -21,16 +21,24 @@ Mike Matas: A next-generation digital book http://www.ted.com/talks/mike_matas
 
 Interactive Storytelling Links:
 
+WEB:
+
 Animated Graphic Novel for Peugeot http://graphicnovel-hybrid4.peugeot.com/start.html
 
 http://www.drewweing.com/puppages/13pup.html
 
 http://machinarium.net/
 
-Ebooks :
+EBOOKS :
 
 https://www.youtube.com/watch?v=v95bUsMh9nw
 
 https://www.youtube.com/watch?v=HvcM2LgLpUg
+
+APPS:
+
+http://www.monumentvalleygame.com/
+
+http://windosill.com/
 
 
