@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>breathing circle</title>
+	<script src="js/snap.svg.min.js"></script>
+</head>
+<body>
+	<svg id= "svg"></svg>
+	<script>
+		var s =Snap('#svg')
+		var myCircle = s.circle(150,150,100)
+		myCircle.attr({ 
+			fill: '#f00',
+			stroke:'#000',
+			stokeWidth:2
+
+		})
+		var aLoop = function (r){
+			var newR = r ===50 ? 100 :50
+			myCircle.animate({r:r}),1500, function(){
+				aLoop(newR)
+			})
+
+		}
+		myCircle.drag()
+		aLoop(50)
+
+	</script>
+</body>
+</html>
