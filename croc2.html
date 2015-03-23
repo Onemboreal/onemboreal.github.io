@@ -407,21 +407,7 @@
 
             var breathing = false;
 
-            function toggleBreathing() {
-                console.log("Toggling breathing...");
-
-                if (breathing) {
-                    console.log("...holding my breath");
-                    character.select('animate').node.endElement();
-                    breathing = false;
-                } else if (!breathing) {
-                    console.log("...beginning to breathe");
-                    character.select('animate').node.beginElement();
-                    breathing = true;
-                }
-            }
-
-            character.node.addEventListener('click', toggleBreathing);
+         
             character.drag()
         }
         </script>
