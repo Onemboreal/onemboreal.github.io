@@ -28,7 +28,6 @@ http://www.ted.com/talks/joe_sabia_the_technology_of_storytelling#t-97568
 Mike Matas: A next-generation digital book. 
 http://www.ted.com/talks/mike_matas
 
-
 Interactive web Storytelling Links:
 
 Animated Graphic Novel for Peugeot http://graphicnovel-hybrid4.peugeot.com/start.html
@@ -83,9 +82,9 @@ http://stackoverflow.com/questions/20734117/how-to-remove-ios-status-bar-with-ph
 Enforce right orientation landscape mode for Phonegap/Cordova iOS app
 http://stackoverflow.com/questions/22561473/enforce-right-orientation-landscape-mode-for-phonegap-cordova-ios-app
 
-
+---------------------------
 ADOBE EDGE RESOURCES :
-
+---------------------------
 Edge Animate Essential Training with Chris Converse
 http://www.lynda.com/Edge-Animate-tutorials/Edge-Animate-Essential-Training/196263-2.html
 
@@ -97,16 +96,47 @@ http://www.edgedocks.com/tutorials
 
 My personal Edge Tutorials Playlist. 
 https://www.youtube.com/playlist?list=PLXQ3RcTfVYqm-QoESqH1KtlpxjVQ0JbWj
+---------------------------
+JAVASCRIPT, HTML, CSS AND SVG:
+---------------------------
+Intro to JS: Drawing & Animation
+https://www.khanacademy.org/computing/computer-programming/programming
 
-JAVASCRIPT:
+Snap Tutorials
+http://svg.dabbles.info/snaptut-loadselect
 
+Animating a svg icon
+http://codyhouse.co/gem/animate-svg-icons-with-css-and-snap/
 
+JavaScript Animation that Works (Part 4 of 4)
+http://code.tutsplus.com/tutorials/javascript-animation-that-works-part-4-of-4--net-35263?utm_source=Tuts+&utm_medium=website&utm_campaign=relatedtutorials&utm_content=sidebar&WT.mc_id=Tuts+_website_relatedtutorials_sidebar
 
+Guide to SVG Animations (SMIL)
+https://css-tricks.com/guide-svg-animations-smil/
 
-SVG:
+Greensock library
+http://greensock.com/
 
+SVG Path Animation with jQuery and Illustrator
+http://blog.teamtreehouse.com/svg-path-animation-with-jquery-and-illustrator
 
+An introduction to SVG animation
+http://bigbitecreative.com/introduction-svg-animation/
 
+An Intro to SVG Animation with SMIL
+http://codepen.io/noahblon/blog/an-intro-to-svg-animation-with-smil/
 
-MIX: 
+vivus, bringing your SVGs to life
+https://maxwellito.github.io/vivus/
 
+Foundation HTML5 Animation with JavaScript
+http://lamberta.github.io/html5-animation/
+
+What's causing this slow/delayed audio playback in Safari?
+http://stackoverflow.com/questions/22216954/whats-causing-this-slow-delayed-audio-playback-in-safari
+
+Multiple Class / ID and Class Selectors
+https://css-tricks.com/multiple-class-id-selectors/
+
+Stop animation and start transition on hover
+http://stackoverflow.com/questions/15962710/stop-animation-and-start-transition-on-hover
